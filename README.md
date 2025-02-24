@@ -1,4 +1,4 @@
-# Price Control Website - FYP Thesis 📄  
+# Price Control Website For KPK - FYP Thesis 📄  
 This repository contains my **Final Year Project Thesis** on the "Price Control Website for KPK."  
 
 ## 📌 Project Summary  
